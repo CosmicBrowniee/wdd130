@@ -1,0 +1,22 @@
+.main-container {
+    display: flex;
+    justify-content: space-between; /* Distributes columns evenly */
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: column; /* Arranges items vertically */
+    justify-content: flex-start; /* Aligns items to the top */
+  }
+  
+  .sub-column {
+    background-color: #f1f1f1;
+    margin-bottom: 10px; /* Adjust the margin between rows */
+    padding: 10px;
+  }
+
+  
+  
+  
+  
+  
