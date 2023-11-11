@@ -1,0 +1,55 @@
+body {  
+    background-image: url(modern-abstract-background-diagonal-tilt-lines-motion-yellow-green-gradient-color_8221-1750.jpg);
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.everything {
+    width: 940px;
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.me {
+    height: 470px;
+    width: 400px;
+}
+
+.words {
+    display: grid 1fr;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 70px;
+    padding-bottom: 46px;
+}
+
+.divider {
+    border-top: 1px solid black;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 10px;
+    line-height: 1.5;
+}
+
+  .box-bois {
+    display: flex;
+    justify-content: left;
+  }
+  
+  .box {
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    margin: 2px;
+    flex: 0 0 auto;
+    margin-top: 15px;
+    
+  }

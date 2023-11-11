@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+#card {
+    width: 250px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 5%;
+}
+
+img {
+    width: 100%;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+}
+
+#torso {
+    padding: 10%;
+    text-align: center;
+}
+
+#torso1 {
+    color: darkblue;
+    font-size: 90%;
+}
+
+#torso2 {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+#torso3 {
+    color: grey;
+    padding: 10px;
+    padding-top: 24px;
+}
+
+#feet{
+    background-color: rgb(59, 59, 171);
+    color: white;
+    
+}

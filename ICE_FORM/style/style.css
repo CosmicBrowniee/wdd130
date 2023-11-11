@@ -1,0 +1,47 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+img {
+    grid-column: 1/2;
+}
+
+.my-input {
+    grid-column: 2/-1;
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+
+  h1{
+    grid-column: 2/-1;
+    text-align: center;
+  }
+  h2{
+    grid-column: 2/-1;
+    text-align: center;
+    font-size: 18px;
+  }
+  .my-checkbox{
+
+  }
+  .checkbox-text{
+
+  }
+
+h3{
+    grid-column: 2/-1;
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
