@@ -245,6 +245,9 @@ footer p a:hover{
     background-color: var(--nav-hover-background-color);
 }
 
+/* Subpage CSS */
+
+
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
