@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+
+#card {
+    width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    
+}
+
+
+#first {
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid grey;
+    font-size: 90px;
+    justify-content: center;
+    padding: 140px 0;
+
+}
+
+
+
+#second {
+    border: 2px solid grey;
+    width: 120px;
+}
+
+#thrid {
+    
+}
